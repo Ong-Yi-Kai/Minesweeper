@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 Minesweeper game through command line interface
 
 1. git clone the repo
